@@ -1,5 +1,5 @@
 FROM python:3-slim
-MAINTAINER Kalilou Diaby "kalilou.diaby@netlight.com"
+MAINTAINER Kalilou Diaby "kalilou1988@gmail.com"
 
 COPY . /app
 WORKDIR /app
